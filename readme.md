@@ -24,7 +24,8 @@ Data Discovery is an important data science - It is important to find your lates
 - Pairs Correlations 
 - Descriptive Staatistics
 - Kurtosis 
-- Makes your work open source 
+- One HOT encoding with Pandas - NOOOOOOOOOO!!!!!
+- One HOT encoding with SKLEARN - YESSSS!!!!!!!
 - Invites Collaboration
 - creative and Fun !!
 
