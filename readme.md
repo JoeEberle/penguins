@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Penguins - Solution for Penguins
 Solution for Penguins
 
@@ -9,8 +11,6 @@ Welcome to the solution **Penguins** - an example for your projects
 Solution for Penguins
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
