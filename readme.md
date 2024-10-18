@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Penguins 
-    ## Solution for Penguins
+    
+# Penguins 
+
+## Solution for Penguins
+
     ![Image image_filename](solution.png)
 
 Data science can be used to examine various species of penguins and the islands they inhabit by analyzing features such as species type, body measurements (e.g., flipper length, bill length, and body mass), island location, and other environmental factors (e.g., temperature, food availability). By collecting and analyzing this data, scientists can gain insights into the differences between penguin species, how they adapt to their environments, and their population distribution across different islands.
@@ -43,9 +46,9 @@ To get started with the **Penguins** solution repository, follow these steps:
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     ## Getting Started## Getting Started![Image image_filename](solution_features.png)
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Penguins** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -55,6 +58,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](correlation by island.png)  <br>![additional_image](penguin.png)  <br>![additional_image](solution.png)  <br>
