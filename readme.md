@@ -45,7 +45,7 @@ To get started with the **Penguins** solution repository, follow these steps:
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    ## Getting Started## Getting Started![Image image_filename](solution_features.png)
+    
 ## Code Features
 
 These features are designed to provide everything you need for **Penguins** 
