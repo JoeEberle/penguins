@@ -78,13 +78,3 @@ To get started with the **Penguins** solution repository, follow these steps:
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](correlation by island.png)  <br>![additional_image](penguin.png)  <br>![additional_image](solution.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
