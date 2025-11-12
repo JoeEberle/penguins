@@ -4,11 +4,7 @@
 
 ## Solution for Penguins
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 
 Data science can be used to examine various species of penguins and the islands they inhabit by analyzing features such as species type, body measurements (e.g., flipper length, bill length, and body mass), island location, and other environmental factors (e.g., temperature, food availability). By collecting and analyzing this data, scientists can gain insights into the differences between penguin species, how they adapt to their environments, and their population distribution across different islands.
 
@@ -39,13 +35,7 @@ The `sns.pairplot(data=df_penguins, hue='species')` function from the Seaborn li
 ### Why It's Useful:
 The `sns.pairplot` function is a quick and effective way to perform **exploratory data analysis (EDA)**. Instead of manually creating multiple individual plots, you can see all the relationships and patterns between features in a single grid. This can help scientists, data analysts, and researchers easily identify which variables are most informative for distinguishing species or predicting behaviors, leading to better hypotheses and more focused research.
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
